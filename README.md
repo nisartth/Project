@@ -13,7 +13,7 @@ sensors, intelligent control systems, and remote operation capabilities, usherin
 of efficiency and sustainability in urban infrastructure management.
 
 # Intoduction
-n addition to its compact and agile design, the robot will be imbued with a high degree of 
+In addition to its compact and agile design, the robot will be imbued with a high degree of 
 adaptability to various pipe diameters, ensuring versatility across different sewage system 
 infrastructures. The incorporation of advanced sensor technologies, such as cameras, 
 proximity sensors, and environmental sensors, equips the robot with the ability to capture 
